@@ -1,0 +1,4 @@
+com\secure\login\LoginApplication.class
+com\secure\SecuringWebApplication.class
+com\secure\securingweb\MvcConfig.class
+com\secure\securingweb\WebSecurityConfig.class
